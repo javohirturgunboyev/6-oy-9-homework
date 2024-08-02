@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    color: black;
+}
+button{
+    border-radius: 15px;
+    width: 300px;
+    margin-top: 50px;
+    color: black;
+}
+button:hover{
+    background-color: white;
+    border: 2px solid black;
+}
